@@ -2,6 +2,8 @@
 
 This project is a web application designed to display the NASA Astronomy Picture of the Day. It fetches and displays high-quality images of space, along with their descriptions, using NASA's APOD API.
 
+This addition provides a link to the live demo of the application, allowing users to directly interact with the project.
+
 ## Table of Contents
 
 - [Features](#features)
@@ -43,3 +45,7 @@ This project is a web application designed to display the NASA Astronomy Picture
 - **CSS Flexbox and Grid:** Advanced layout techniques to create a responsive design.
 - **API Integration:** Fetching data from an external API and handling asynchronous requests in React.
 - **LocalStorage Usage:** Implementing caching mechanisms to store API data locally for quicker retrieval and reduced data fetching.
+
+### Live Demo
+
+View the live demo of the project here: NASA APOD [Viewer](https://react-nasa-dileep.netlify.app/)
