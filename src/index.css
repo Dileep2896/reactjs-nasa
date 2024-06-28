@@ -194,6 +194,6 @@ footer button:hover {
   .bgOverlay {
     right: 0;
     left: unset;
-    width: 100vw;
+    width: 100%;
   }
 }
